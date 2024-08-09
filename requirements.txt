@@ -1,0 +1,18 @@
+ultralytics==8.2.74
+matplotlib==3.8.4
+numpy==1.26.4
+opencv-python==4.10.0.84
+jupyter==1.0.0
+ttach==0.0.3
+# onnx==1.16.0
+# onnxoptimizer==0.3.13
+pandas==2.2.2
+# pqdm==0.2.0
+# protobuf==4.25.2
+# scipy==1.13.0
+# scikit-learn==1.4.2
+# tensorboard==2.16.2
+# tensorflow==2.16.1
+# tensorrt==10.0.1
+# Theano==1.0.5
+# tqdm==4.66.2
